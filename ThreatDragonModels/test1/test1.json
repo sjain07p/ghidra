@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "test1",
+    "owner": "sjain07",
+    "description": "test1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "test1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
