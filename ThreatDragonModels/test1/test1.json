@@ -85,7 +85,12 @@
               "target": {
                 "id": "4c2f9b8a-222d-4194-b18c-87e9c95e6452"
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 137,
+                  "y": 267
+                }
+              ],
               "id": "d60573af-aaf4-46b8-b9e9-8b14b581a136",
               "labels": [
                 {
@@ -121,7 +126,12 @@
                 "x": 203,
                 "y": 196
               },
-              "vertices": [],
+              "vertices": [
+                {
+                  "x": 217,
+                  "y": 270
+                }
+              ],
               "id": "0b8baa60-ed1e-4934-bb38-bca40f0b5298",
               "z": 4,
               "attrs": {}
